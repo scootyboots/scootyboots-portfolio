@@ -1,6 +1,6 @@
 import { type NextPage } from "next";
 // import { env } from "process";
-import UnderConstruction from "../env/components/UnderConstruction";
+import UnderConstruction from "../components/UnderConstruction";
 import Head from "next/head";
 import Link from "next/link";
 
