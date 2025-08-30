@@ -1,11 +1,11 @@
 export default function UnderConstruction() {
-  const centerMessage = (
-    <div className="absolute flex h-screen w-screen items-center justify-center">
-      <div className="text-4xl font-bold text-gray-100">
-        this site is under construction, come back some other time
-      </div>
-    </div>
-  );
+  // const centerMessage = (
+  //   <div className="absolute flex h-screen w-screen items-center justify-center">
+  //     <div className="text-4xl font-bold text-gray-100">
+  //       this site is under construction, come back some other time
+  //     </div>
+  //   </div>
+  // );
   return (
     <div className="flex h-screen w-screen flex-wrap bg-gray-800">
       <div className="relative flex h-[85vh] w-[14.28vw] bg-gray-300"></div>

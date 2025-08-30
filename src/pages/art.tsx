@@ -6,7 +6,7 @@ export default function Art() {
     <div>
       <h1>this is where the art portfosadsdsadsal a sdsd goes</h1>
       <h2>number of works {worksData.length}</h2>
-      {worksData.map((workData, i) => (
+      {worksData.map((workData) => (
         <>
           <div key={workData.fileName}>
             <Image
