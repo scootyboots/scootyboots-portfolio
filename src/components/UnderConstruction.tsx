@@ -40,3 +40,7 @@ export default function UnderConstruction() {
     </div>
   );
 }
+
+export function ConstructionGrid() {
+  return <div></div>;
+}
